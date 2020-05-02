@@ -1,5 +1,6 @@
 # Image-high-resolution-SRgan
 To provide high resolution image based on lower scaled image
+
 input  image : 96x96 pixels
 output image : 384x384 pixels
 upscale image : 4x
@@ -64,3 +65,7 @@ File Structure:
 *for full discription of code and model visit : https://github.com/deepak112/Keras-SRGAN
 
 * for learning of all the concepts used here, kindly visit first : https://medium.com/@birla.deepak26/single-image-super-resolution-using-gans-keras-aca310f33112 
+
+You can mail me in-case of any query : shubhambavishi2605@gmail.com
+* please check my other Deep learning projects : IMDB review :https://github.com/shubhambavishi/IMDB-review  
+                                               Plant-seed-classification :https://github.com/shubhambavishi/Plant_seed_classification
