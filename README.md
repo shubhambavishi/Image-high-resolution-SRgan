@@ -46,7 +46,7 @@ matplotlib, skimage, scipy
 
 For training: Good GPU, I trained my model on NVIDIA Tesla P100 (This model is trained by real owner,i had run for only 5 epochs as my GPU compatibility is low
 Data set:
-* Used COCO data set 2017. It is around 18GB having images of different dimensions.
+* Dataset for training : https://www.kaggle.com/shubhambavishi/coco-image
 * Used 800 images for training(Very less, You can take more (approx. 350 according to original paper) thousand is you can
   collect and have very very good GPU). Preprocessing includes cropping images so that we can have same dimension images. 
   Images with same width and height are preferred. I used images of size 384 for high resolution.
