@@ -60,4 +60,6 @@ File Structure:
 * output : All the tested images are in this folder
 
 
-*for full description of code and model visit : https://github.com/deepak112/Keras-SRGAN
+*for full discription of code and model visit : https://github.com/deepak112/Keras-SRGAN
+
+* for learning of all the concepts used here, kindly visit first : https://medium.com/@birla.deepak26/single-image-super-resolution-using-gans-keras-aca310f33112 
