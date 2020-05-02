@@ -52,11 +52,12 @@ Data set:
   Images with same width and height are preferred. I used images of size 384 for high resolution.
 * After above step you have High Resolution images. Now you have to get Low Resolution images which you can get by down 
   scaling HR images. I used down scale = 4. So Low resolution image of size 96 we will get. Sample code for this.
+  
 File Structure:
-*test_on_hr.py : This will take high resolution image and compare the output with input and real image
-*test_on_lr.py : This will take low resolution image and convert it into high resolution image
-*train.py : This will train the GAN model and the model is saved in model directory
-*output : All the tested images are in this folder
+* test_on_hr.py : This will take high resolution image and compare the output with input and real image
+* test_on_lr.py : This will take low resolution image and convert it into high resolution image
+* train.py : This will train the GAN model and the model is saved in model directory
+* output : All the tested images are in this folder
 
 
 *for full description of code and model visit : https://github.com/deepak112/Keras-SRGAN
