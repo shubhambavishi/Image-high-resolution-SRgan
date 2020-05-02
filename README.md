@@ -54,6 +54,7 @@ Data set:
   scaling HR images. I used down scale = 4. So Low resolution image of size 96 we will get. Sample code for this.
   
 File Structure:
+* model : Use this directory for directly run the already saved model, click this link for model : https://github.com/deepak112/Keras-SRGAN/blob/master/model/gen_model3000.h5
 * test_on_hr.py : This will take high resolution image and compare the output with input and real image
 * test_on_lr.py : This will take low resolution image and convert it into high resolution image
 * train.py : This will train the GAN model and the model is saved in model directory
